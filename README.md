@@ -23,4 +23,4 @@ alt="my banner">
 
 ## Github Stats
 
-![Olashymbo's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=?username=olahsymbo&theme=react&line_height=40&hide=css)
+![Olashymbo's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=olahsymbo&theme=react&line_height=40&hide=css)
