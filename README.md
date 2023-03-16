@@ -23,9 +23,9 @@ alt="my banner">
 
 ## Github Stats
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/olahsymbo">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=olahsymbo&repo=github-readme-stats" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/olahsymbo/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=olahsymbo&repo=convoychat" />
 </a>
