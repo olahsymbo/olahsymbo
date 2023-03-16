@@ -24,4 +24,4 @@ alt="my banner">
 ## Github Stats
 
 [![Olashymbo's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=olahsymbo&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-![Olashymbo's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=olahsymbo&theme=react&line_height=40&hide=css)
+![Olashymbo's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=olahsymbo&theme=react&line_height=30&hide=css)
