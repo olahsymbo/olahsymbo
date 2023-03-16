@@ -1,3 +1,5 @@
+![Olasimbo arigbabu](https://user-images.githubusercontent.com/15322430/225648512-12793c30-187e-4b7a-b38e-d90a8deb770f.gif)
+
 👩‍💻  About Me :
 I am a Data Scientist/Machine Learning Engineer from Nigeria.
 
