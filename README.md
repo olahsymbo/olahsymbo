@@ -12,7 +12,7 @@ alt="my banner">
 
 ⚡ In my leisure time, I provide solutions to questions on StackOverflow and read research articles (as well as blogs).
 
-📫 You can contact me via Linkedin Badge https://www.linkedin.com/in/olasimbo-arigbabu/ 
+📫 You can contact me via ![LinkedIn]<a href="https://www.linkedin.com/in/olasimbo-arigbabu/"> (https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
 
 ## Technical Skills
@@ -23,5 +23,5 @@ alt="my banner">
 
 ## Github Stats
 
-[![Olashymbo's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=olahsymbo&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 ![Olashymbo's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=olahsymbo&theme=react&line_height=30&hide=css)
+[![Olashymbo's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=olahsymbo&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
