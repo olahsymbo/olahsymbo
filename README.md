@@ -4,7 +4,7 @@ alt="my banner">
 
 </p>
 
-👩‍💻  About Me : I am a Data Scientist/Machine Learning Engineer from Nigeria.
+👩‍💻  About Me : I am a Data Scientist/Machine Learning Engineer.
 
 🔭 I develop ML and AI solutions that can be seamlessly integrated into frontend, backend, mobile applications.
 
@@ -12,7 +12,9 @@ alt="my banner">
 
 ⚡ In my leisure time, I provide solutions to questions on StackOverflow and read research articles (as well as blogs).
 
-📫 You can contact me via:[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/olasimbo-arigbabu/)
+📫 You can contact me via:
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/olasimbo-arigbabu/)
 
 
 ## Technical Skills
