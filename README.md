@@ -12,7 +12,7 @@ alt="my banner">
 
 ⚡ In my leisure time, I provide solutions to questions on StackOverflow and read research articles (as well as blogs).
 
-📫 You can contact me via:[![LinkedIn](https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg)](https://www.linkedin.com/in/olasimbo-arigbabu/)
+📫 You can contact me via:[![LinkedIn](https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg&width=21px)](https://www.linkedin.com/in/olasimbo-arigbabu/)
 
 
 ## Technical Skills
