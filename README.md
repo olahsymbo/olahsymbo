@@ -1,5 +1,3 @@
-👩‍💻  About Me : I am a Data Scientist/Machine Learning Engineer.
-
 🔭 I develop ML and AI solutions that can be seamlessly integrated into frontend, backend, mobile applications.
 
 🌱 Perform Technical Writing (Blogs and Academic).
